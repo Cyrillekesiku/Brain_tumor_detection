@@ -114,17 +114,13 @@ Alternatively see the GitHub documentation on
 
 Thanks to the following people who have contributed to this project:
 
-- [@Cyrille](https://github.com/) 📖
+- [@Fadel](https://github.com/mofadel/) 📖
 - [@Aissatou](https://github.com/sashakhaf) 📖
 
 <!--- You might want to consider using something like the
 [All Contributors](https://github.com/all-contributors/all-contributors)
 specification and its
 [emoji key](https://allcontributors.org/docs/en/emoji-key). --->
-
-## Contact
-
-If you want to contact me you can reach me at <fadelthior@gmail.com>.
 
 ## License
 
